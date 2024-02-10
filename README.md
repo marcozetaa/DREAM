@@ -8,7 +8,6 @@ RASD: https://github.com/marcozetaa/DeSantisTerzianiZanghieri/blob/main/RASD.pdf
 Design Document: https://github.com/marcozetaa/DeSantisTerzianiZanghieri/blob/main/DD.pdf <br /> <br />
 Component diagram and Entity Relationship diagram decided for DREAM: <br /> <br />
 <img src=https://github.com/marcozetaa/DeSantisTerzianiZanghieri/blob/main/comp/ComponentDiagrams/ComponentDiagram.png width="80%" align="center"></p> <br />
-<img src=https://github.com/SimoneSartoni/SoftwareEngineering2/blob/master/DD/img/ER.png width="80%" align="center"></p> <br />
 
 
 
