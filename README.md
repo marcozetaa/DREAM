@@ -6,7 +6,7 @@ Mockup: <br />
 <img src=https://github.com/marcozetaa/DeSantisTerzianiZanghieri/blob/main/comp/Mockup/PNG/COMPUTER%20MOCKUP.png width="80%" align="center"></p> <br />
 RASD: https://github.com/marcozetaa/DeSantisTerzianiZanghieri/blob/main/RASD.pdf <br />
 Design Document: https://github.com/marcozetaa/DeSantisTerzianiZanghieri/blob/main/DD.pdf <br /> <br />
-Component diagram and Entity Relationship diagram decided for DREAM: <br /> <br />
+Component diagram decided for DREAM: <br /> <br />
 <img src=https://github.com/marcozetaa/DeSantisTerzianiZanghieri/blob/main/comp/ComponentDiagrams/ComponentDiagram.png width="80%" align="center"></p> <br />
 
 
